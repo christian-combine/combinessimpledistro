@@ -7,4 +7,4 @@ architecture = x86_64
 Linux Kernel Version =	5.15.178
 
 # TODO FOR NOW
-GCC compiler 
+an c compiler 
